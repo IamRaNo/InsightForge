@@ -1,0 +1,179 @@
+﻿_id,id,year,state_name,state_code,cases,married,un_married
+1,0,2018,Andaman And Nicobar Islands,35,0,0,0
+2,1,2018,Andhra Pradesh,28,11,21,5
+3,2,2018,Arunachal Pradesh,12,0,0,0
+4,3,2018,Assam,18,0,0,0
+5,4,2018,Bihar,10,0,0,0
+6,5,2018,Chandigarh,4,0,0,0
+7,6,2018,Chhattisgarh,22,0,0,0
+8,7,2018,Delhi,7,0,0,0
+9,8,2018,Goa,30,0,0,0
+10,9,2018,Gujarat,24,3,6,0
+11,10,2018,Haryana,6,0,0,0
+12,11,2018,Himachal Pradesh,2,1,1,2
+13,12,2018,Jammu And Kashmir,1,0,0,0
+14,13,2018,Jharkhand,20,0,0,0
+15,14,2018,Karnataka,29,1,2,0
+16,15,2018,Kerala,32,5,21,3
+17,16,2018,Lakshadweep,31,0,0,0
+18,17,2018,Madhya Pradesh,23,9,13,7
+19,18,2018,Maharashtra,27,2,3,2
+20,19,2018,Manipur,14,0,0,0
+21,20,2018,Meghalaya,17,0,0,0
+22,21,2018,Mizoram,15,0,0,0
+23,22,2018,Nagaland,13,0,0,0
+24,23,2018,Odisha,21,0,0,0
+25,24,2018,Puducherry,34,0,0,0
+26,25,2018,Punjab,3,6,4,9
+27,26,2018,Rajasthan,8,6,5,12
+28,27,2018,Sikkim,11,0,0,0
+29,28,2018,Tamil Nadu,33,15,26,9
+30,29,2018,Telangana,36,0,0,0
+31,30,2018,The Dadra And Nagar Haveli And Daman And Diu,38,0,0,0
+32,31,2018,Tripura,16,0,0,0
+33,32,2018,Uttar Pradesh,9,0,0,0
+34,33,2018,Uttarakhand,5,5,17,5
+35,34,2018,West Bengal,19,0,0,0
+36,35,2019,Andaman And Nicobar Islands,35,0,0,0
+37,36,2019,Andhra Pradesh,28,14,25,11
+38,37,2019,Arunachal Pradesh,12,0,0,0
+39,38,2019,Assam,18,5,11,2
+40,39,2019,Bihar,10,0,0,0
+41,40,2019,Chandigarh,4,0,0,0
+42,41,2019,Chhattisgarh,22,0,0,0
+43,42,2019,Delhi,7,0,0,0
+44,43,2019,Goa,30,0,0,0
+45,44,2019,Gujarat,24,0,0,0
+46,45,2019,Haryana,6,0,0,0
+47,46,2019,Himachal Pradesh,2,0,0,0
+48,47,2019,Jammu And Kashmir,1,0,0,0
+49,48,2019,Jharkhand,20,0,0,0
+50,49,2019,Karnataka,29,3,5,2
+51,50,2019,Kerala,32,11,20,4
+52,51,2019,Lakshadweep,31,0,0,0
+53,52,2019,Madhya Pradesh,23,1,1,1
+54,53,2019,Maharashtra,27,3,6,1
+55,54,2019,Manipur,14,0,0,0
+56,55,2019,Meghalaya,17,0,0,0
+57,56,2019,Mizoram,15,0,0,0
+58,57,2019,Nagaland,13,0,0,0
+59,58,2019,Odisha,21,0,0,0
+60,59,2019,Puducherry,34,0,0,0
+61,60,2019,Punjab,3,9,12,6
+62,61,2019,Rajasthan,8,7,8,14
+63,62,2019,Sikkim,11,0,0,0
+64,63,2019,Tamil Nadu,33,16,33,10
+65,64,2019,Telangana,36,2,4,2
+66,65,2019,The Dadra And Nagar Haveli And Daman And Diu,38,0,0,0
+67,66,2019,Tripura,16,0,0,0
+68,67,2019,Uttar Pradesh,9,0,0,0
+69,68,2019,Uttarakhand,5,1,1,1
+70,69,2019,West Bengal,19,0,0,0
+71,70,2020,Andaman And Nicobar Islands,35,0,0,0
+72,71,2020,Andhra Pradesh,28,19,34,12
+73,72,2020,Arunachal Pradesh,12,0,0,0
+74,73,2020,Assam,18,10,8,2
+75,74,2020,Bihar,10,1,2,1
+76,75,2020,Chandigarh,4,0,0,0
+77,76,2020,Chhattisgarh,22,0,0,0
+78,77,2020,Delhi,7,0,0,0
+79,78,2020,Goa,30,1,2,0
+80,79,2020,Gujarat,24,3,4,9
+81,80,2020,Haryana,6,0,0,0
+82,81,2020,Himachal Pradesh,2,0,0,0
+83,82,2020,Jammu And Kashmir,1,0,0,0
+84,83,2020,Jharkhand,20,0,0,0
+85,84,2020,Karnataka,29,8,10,9
+86,85,2020,Kerala,32,9,14,11
+87,86,2020,Ladakh,37,0,0,0
+88,87,2020,Lakshadweep,31,0,0,0
+89,88,2020,Madhya Pradesh,23,18,23,16
+90,89,2020,Maharashtra,27,8,6,11
+91,90,2020,Manipur,14,0,0,0
+92,91,2020,Meghalaya,17,0,0,0
+93,92,2020,Mizoram,15,0,0,0
+94,93,2020,Nagaland,13,0,0,0
+95,94,2020,Odisha,21,0,0,0
+96,95,2020,Puducherry,34,0,0,0
+97,96,2020,Punjab,3,5,6,6
+98,97,2020,Rajasthan,8,15,10,26
+99,98,2020,Sikkim,11,0,0,0
+100,99,2020,Tamil Nadu,33,22,26,19
+101,100,2020,Telangana,36,1,1,2
+102,101,2020,The Dadra And Nagar Haveli And Daman And Diu,38,0,0,0
+103,102,2020,Tripura,16,0,0,0
+104,103,2020,Uttar Pradesh,9,0,0,0
+105,104,2020,Uttarakhand,5,1,2,0
+106,105,2020,West Bengal,19,0,0,0
+107,106,2021,Andaman And Nicobar Islands,35,0,0,0
+108,107,2021,Andhra Pradesh,28,22,37,19
+109,108,2021,Arunachal Pradesh,12,0,0,0
+110,109,2021,Assam,18,0,0,0
+111,110,2021,Bihar,10,0,0,0
+112,111,2021,Chandigarh,4,0,0,0
+113,112,2021,Chhattisgarh,22,1,2,0
+114,113,2021,Delhi,7,0,0,0
+115,114,2021,Goa,30,1,3,0
+116,115,2021,Gujarat,24,8,15,8
+117,116,2021,Haryana,6,0,0,0
+118,117,2021,Himachal Pradesh,2,0,0,0
+119,118,2021,Jammu And Kashmir,1,0,0,0
+120,119,2021,Jharkhand,20,0,0,0
+121,120,2021,Karnataka,29,10,19,12
+122,121,2021,Kerala,32,12,22,4
+123,122,2021,Ladakh,37,0,0,0
+124,123,2021,Lakshadweep,31,0,0,0
+125,124,2021,Madhya Pradesh,23,8,9,10
+126,125,2021,Maharashtra,27,6,14,6
+127,126,2021,Manipur,14,0,0,0
+128,127,2021,Meghalaya,17,0,0,0
+129,128,2021,Mizoram,15,0,0,0
+130,129,2021,Nagaland,13,0,0,0
+131,130,2021,Odisha,21,0,0,0
+132,131,2021,Puducherry,34,0,0,0
+133,132,2021,Punjab,3,3,3,4
+134,133,2021,Rajasthan,8,25,18,49
+135,134,2021,Sikkim,11,0,0,0
+136,135,2021,Tamil Nadu,33,33,52,28
+137,136,2021,Telangana,36,2,3,3
+138,137,2021,The Dadra And Nagar Haveli And Daman And Diu,38,0,0,0
+139,138,2021,Tripura,16,0,0,0
+140,139,2021,Uttar Pradesh,9,0,0,0
+141,140,2021,Uttarakhand,5,0,0,0
+142,141,2021,West Bengal,19,0,0,0
+143,142,2022,Andaman And Nicobar Islands,35,0,0,0
+144,143,2022,Andhra Pradesh,28,13,21,8
+145,144,2022,Arunachal Pradesh,12,0,0,0
+146,145,2022,Assam,18,1,2,0
+147,146,2022,Bihar,10,0,0,0
+148,147,2022,Chandigarh,4,0,0,0
+149,148,2022,Chhattisgarh,22,0,0,0
+150,149,2022,Delhi,7,0,0,0
+151,150,2022,Goa,30,1,1,1
+152,151,2022,Gujarat,24,1,2,1
+153,152,2022,Haryana,6,0,0,0
+154,153,2022,Himachal Pradesh,2,0,0,0
+155,154,2022,Jammu And Kashmir,1,0,0,0
+156,155,2022,Jharkhand,20,0,0,0
+157,156,2022,Karnataka,29,7,13,3
+158,157,2022,Kerala,32,4,9,2
+159,158,2022,Ladakh,37,0,0,0
+160,159,2022,Lakshadweep,31,0,0,0
+161,160,2022,Madhya Pradesh,23,4,5,3
+162,161,2022,Maharashtra,27,2,4,0
+163,162,2022,Manipur,14,0,0,0
+164,163,2022,Meghalaya,17,0,0,0
+165,164,2022,Mizoram,15,0,0,0
+166,165,2022,Nagaland,13,0,0,0
+167,166,2022,Odisha,21,0,0,0
+168,167,2022,Puducherry,34,0,0,0
+169,168,2022,Punjab,3,5,5,5
+170,169,2022,Rajasthan,8,20,15,28
+171,170,2022,Sikkim,11,0,0,0
+172,171,2022,Tamil Nadu,33,90,140,52
+173,172,2022,Telangana,36,1,2,0
+174,173,2022,The Dadra And Nagar Haveli And Daman And Diu,38,0,0,0
+175,174,2022,Tripura,16,0,0,0
+176,175,2022,Uttar Pradesh,9,1,3,0
+177,176,2022,Uttarakhand,5,0,0,0
+178,177,2022,West Bengal,19,0,0,0
