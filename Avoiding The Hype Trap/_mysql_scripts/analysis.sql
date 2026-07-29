@@ -52,3 +52,6 @@ SELECT
 FROM ipo
 GROUP BY listing_year,gain_bucket
 ORDER BY company_count desc;
+
+
+/* Gain buckets over the years */
